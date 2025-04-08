@@ -1,3 +1,3 @@
-console.log("Criação do arquivo index.js")
+console.log("Hello, World!")
 
-console.log("Alterando o index.js no repositório remoto")
+console.log("index.js loaded")
