@@ -1,2 +1,4 @@
-# primeiro-repositorio
-Meu primeiro repositório remoto git.
+# first repository
+My first repository remote GIT.
+
+# version in english
